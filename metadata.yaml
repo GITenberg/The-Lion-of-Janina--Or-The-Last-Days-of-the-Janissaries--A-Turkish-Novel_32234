@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5845
     wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32234#The-Lion-of-Janina--Or-The-Last-Days-of-the-Janissaries--A-Turkish-Novel
 gutenberg_issued: '2010-05-03'
 gutenberg_type: Text
 identifiers:
